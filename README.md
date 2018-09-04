@@ -29,4 +29,4 @@ Official website and blog for Rails Girls Jr movement can be found at https://ra
 * Terence Lee / [@hone02](https://twitter.com/hone02) / [github](http://github.com/hone)
 * Jiaqi Liu / [@tuzi_moe](https://twitter.com/tuzi_moe) / [github](http://github.com/tuzimoe)
 
-..and all the other coaches and people making Rails Girls awesome. Please add yourself!
+..and all the other coaches and people making Rails Girls Jr awesome. Please add yourself!
