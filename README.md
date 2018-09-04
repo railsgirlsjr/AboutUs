@@ -1,4 +1,4 @@
-# Rails Girls Jr Guides
+# Rails Girls Jr About Us
 
 Rails Girls Jr is a branch from Rails Girls. We sharing the same vision with Rails Girls. Our aim is to give tools for teen girls to understand technology. The Rails Girls Jr events do this by providing a great first experience on building the Internet.
 
