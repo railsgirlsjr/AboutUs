@@ -23,10 +23,7 @@ Official website and blog for Rails Girls Jr movement can be found at https://ra
 
 ## Credits
 
-* Karri Saarinen / [@karrisaarinen](https://twitter.com/karrisaarinen) / [github](http://github.com/ksaa)
 * Linda Liukas / [@lindaliukas](https://twitter.com/lindaliukas) / [github](http://github.com/lindaliukas)
-* Vesa Vänskä / [@vesan](https://twitter.com/vesan) / [github](http://github.com/vesan)
-* Terence Lee / [@hone02](https://twitter.com/hone02) / [github](http://github.com/hone)
 * Jiaqi Liu / [@tuzi_moe](https://twitter.com/tuzi_moe) / [github](http://github.com/tuzimoe)
 
 ..and all the other coaches and people making Rails Girls Jr awesome. Please add yourself!
